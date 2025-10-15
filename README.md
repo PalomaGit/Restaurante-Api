@@ -24,3 +24,25 @@ API que implementa operaciones básicas CRUD (Create, Read, Update, Delete) para
 - **Docker** - Containerización
 - **Mongo Express** - Interfaz web para MongoDB
 
+## 🚀 Instalación y Uso
+
+### Requisitos
+- Docker
+- Docker Compose
+
+### Ejecución
+```bash
+# Clonar el repositorio
+git clone https://github.com/PalomaGit/Restaurante-Api.git
+
+# Navegar al directorio
+cd Restaurante-Api
+
+# Ejecutar con Docker
+docker-compose up
+```
+
+### Acceso
+- **API FastAPI**: http://localhost:8000/
+- **Documentación Swagger**: http://localhost:8000/docs
+- **MongoDB**: Puerto 27017 (Usuario: admin, Contraseña: 123)
