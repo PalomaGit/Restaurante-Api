@@ -36,11 +36,11 @@ Endpoint: `GET /reservas`
 
 #### 2. Crear Nueva Reserva
 Endpoint: `POST /reserva`
-![Crear Reserva](screenshots/create-reserva.png)
+![Crear Reserva](screenshots/create-reservas.png)
 
 #### 3. Buscar Reservas por Cliente
 Endpoint: `GET /reserva/{nombre_cliente}`
-![Buscar por Cliente](screenshots/search-cliente.png)
+![Buscar por Cliente](screenshots/search-client.png)
 
 #### 4. Eliminar Reservas
 Endpoint: `DELETE /reserva/{nombre_cliente}`
@@ -48,5 +48,5 @@ Endpoint: `DELETE /reserva/{nombre_cliente}`
 
 #### 5. Estado de la API
 Endpoint: `GET /`
-![Estado de la API](screenshots/api-status.png)
+![Endpoint](screenshots/endpoint.png)
 
